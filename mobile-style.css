@@ -1,5 +1,6 @@
 .wrapper {
   position: relative;
   justify-content: center;
+  margin: auto;
   width: 375px;
 }
